@@ -1,0 +1,7 @@
+
+-) debido a que el archivo tp2_1_2.c fue creado en el branch Opcion_2 no puedo verlo.
+-) el archivo Respuestas.txt se ve como si se dividiria en dos ramas.
+-) Al combinarlos podemos ver que las ramas se unieron
+
+
+
